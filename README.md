@@ -12,3 +12,6 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Nick Mihaly
+
+
+### ©️2019 Run Buddy, Inc 
